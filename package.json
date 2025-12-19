@@ -1,0 +1,19 @@
+{
+    "name": "raiz-verde-astro",
+    "version": "1.0.0",
+    "description": "```sh npm create astro@latest -- --template minimal ```",
+    "main": "index.js",
+    "scripts": {
+        "dev": "astro dev",
+        "start": "astro dev",
+        "build": "astro build",
+        "preview": "astro preview"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@astrojs/mdx": "^4.3.13",
+        "astro": "^5.16.6"
+    }
+}

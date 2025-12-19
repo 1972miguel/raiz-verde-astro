@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .leaf { fill: #2d6a4f; }
+    .root { fill: #1b4332; }
+  </style>
+  <!-- Raíz simple -->
+  <path class="root" d="M100 140 Q80 160 70 180 L130 180 Q120 160 100 140 Z"/>
+  <!-- Hojas/ramas -->
+  <circle class="leaf" cx="100" cy="80" r="40"/>
+  <circle class="leaf" cx="70" cy="100" r="25"/>
+  <circle class="leaf" cx="130" cy="100" r="25"/>
+  <circle class="leaf" cx="85" cy="60" r="20"/>
+  <circle class="leaf" cx="115" cy="60" r="20"/>
+</svg>

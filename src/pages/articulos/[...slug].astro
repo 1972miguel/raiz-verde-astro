@@ -1,0 +1,26 @@
+---
+import { getCollection, getEntry } from "astro:content";
+import ArticuloLayout from "../../layouts/Articulo.astro";
+
+export async function getStaticPaths() {
+  const articulos = await getCollection("articulos");
+
+  return articulos.map((articulo) => ({
+    params: { slug: articulo.slug },
+  }));
+}
+
+const articulo = await getEntry("articulos", Astro.params.slug);
+
+if (!articulo) {
+  return Astro.redirect("/404");
+}
+
+const { Content } = await articulo.render();
+---
+
+<ArticuloLayout articulo={articulo}>
+  <Content />
+</ArticuloLayout>
+
+

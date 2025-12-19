@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Raíz Verde</title>
+    <link>https://raiz-verde-six.vercel.app</link>
+    <description>Sostenibilidad tecnológica y proyectos forestales</description>
+    <language>es</language>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>La Sorprendente Huella Ambiental de la IA</title>
+      <link>https://raiz-verde-six.vercel.app/articulos/huella-ambiental-ia.html</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Análisis del impacto Ambiental de las IA.</description>
+    </item>
+
+    <item>
+      <title>Ecosia: el buscador que planta árboles — análisis real</title>
+      <link>https://raiz-verde-six.vercel.app/articulos/ecosia-buscador-arboles.html</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Análisis de Ecosia y su impacto en reforestación en 2025.</description>
+    </item>
+
+    <item>
+      <title>Diseño web sostenible: cómo creamos Raíz Verde paso a paso</title>
+      <link>https://raiz-verde-six.vercel.app/articulos/diseno-web-sostenible.html</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Guía práctica de green web design aplicada a este proyecto.</description>
+    </item>
+
+    <item>
+      <title>Raíz Verde: el proyecto</title>
+      <link>https://raiz-verde-six.vercel.app/articulos/raiz-verde-el-proyecto.html</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Bienvenidos a este espacio colaborativo dedicado a la sostenibilidad tecnológica y los proyectos forestales.</description>
+    </item>
+
+    <!-- Añade nuevos <item> arriba cuando publiques artículos -->
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home -->
+  <url>
+    <loc>https://raiz-verde-six.vercel.app/</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Sobre mí -->
+  <url>
+    <loc>https://raiz-verde-six.vercel.app/about.html</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Listado de artículos -->
+  <url>
+    <loc>https://raiz-verde-six.vercel.app/articulos/</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Artículo: Diseño web sostenible -->
+  <url>
+    <loc>https://raiz-verde-six.vercel.app/articulos/diseno-web-sostenible.html</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Artículo: Raíz Verde el proyecto -->
+  <url>
+    <loc>https://raiz-verde-six.vercel.app/articulos/raiz-verde-el-proyecto.html</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Artículo: Ecosia -->
+  <url>
+    <loc>https://raiz-verde-six.vercel.app/articulos/ecosia-buscador-arboles.html</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Artículo: huella ambiental de la IA -->
+  <url>
+    <loc>https://raiz-verde-six.vercel.app/articulos/huella-ambiental-ia.html</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- RSS -->
+  <url>
+    <loc>https://raiz-verde-six.vercel.app/rss.xml</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+</urlset>

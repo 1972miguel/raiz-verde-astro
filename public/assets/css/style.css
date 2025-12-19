@@ -1,0 +1,236 @@
+/* Raíz Verde - Estilo minimalista y sostenible */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.8;
+  background: #121212;
+  color: #e0e0e0;
+  padding: 3rem 1rem;
+  max-width: 860px;
+  margin: 0 auto;
+  font-size: 1.15rem;
+}
+
+/* Skip Navigation - Accesibilidad */
+.skip-navigation {
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  background: #2d6a4f;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  z-index: 100;
+  border-radius: 4px;
+}
+
+.skip-navigation:focus {
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  width: auto;
+  height: auto;
+  overflow: visible;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #2d6a4f;
+}
+
+.logo {
+  width: 130px;
+  height: 100px;
+  margin-bottom: 1rem;
+  transition: transform 0.25s ease, filter 0.25s ease;
+}
+
+.logo:hover {
+  transform: scale(1.1) rotate(5deg);
+  filter: brightness(1.2);
+}
+
+h1 {
+  font-size: 3.2rem;
+  color: #95d5b2;
+  margin-bottom: 0.5rem;
+}
+
+/* Parrafo de descripción */
+p.description {
+  border-bottom: 1px solid #2d6a4f;
+  padding-bottom: 4rem;
+}
+/** Enlace de retorno página about*/
+#return-link{
+  margin-top: 1rem;
+}
+/* Encabezado lista de artículos */
+h2.list-articles {
+  margin: 0.5rem 0;
+  border-bottom: 1px solid #2d6a4f;
+  padding-bottom: 1rem;
+}
+
+h2.articles-index {
+  border-bottom: 1px solid #2d6a4f;
+  padding-bottom: 1.2rem;
+  margin-top: -2rem;
+}
+
+h2 {
+  font-size: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #a8e6cf;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  color: #8fd9b6;
+  font-style: italic;
+}
+
+main {
+  margin: 3rem 0;
+}
+
+/* Breadcrumb Navigation */
+.breadcrumb {
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+  color: #8fd9b6;
+}
+
+.breadcrumb a {
+  color: #a8e6cf;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumb span {
+  margin: 0 0.5rem;
+  color: #666;
+}
+
+article {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px dashed #333;
+}
+
+article.first {
+  padding-top: 2.5rem;
+}
+
+article h2 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+article .meta {
+  color: #8fd9b6;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+article p:last-of-type {
+  margin-top: 1rem;
+}
+/* Links con mejor contraste WCAG 2.1 AA */
+a {
+  color: #a8e6cf;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #d8f3dc;
+  text-decoration: underline;
+}
+
+/* Focus visible para navegación por teclado */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus {
+  outline: 2px solid #a8e6cf;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid #2d6a4f;
+  font-size: 1rem;
+  color: #666;
+}
+
+.carbon {
+  font-size: 0.85rem;
+  color: #8fd9b6;
+  margin-top: 2rem;
+}
+
+/* Soporte para usuarios con sensibilidad al movimiento */
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+    .logo {
+    transition-duration: 0.01ms !important;
+    transform: none;
+  }
+  .logo:hover {
+    transform: none;
+  }
+}
+
+/* Responsive */
+
+/* Mejora extra para pantallas pequeñas */
+@media (min-width: 600px) {
+  body {
+    padding: 4rem 2rem;
+    font-size: 1.25rem;
+  }
+
+  h1 {
+    font-size: 3.8rem;
+  }
+}
+
+/* Breakpoint tablet */
+@media (min-width: 768px) {
+  article {
+    margin-bottom: 3.5rem;
+  }
+}

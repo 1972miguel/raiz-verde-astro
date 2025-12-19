@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /assets/css/
+Sitemap: https://raiz-verde-six.vercel.app/sitemap.xml
