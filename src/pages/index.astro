@@ -1,4 +1,14 @@
+---
+import { getCollection } from "astro:content";
 
+// Obtener todos los artículos
+const articulos = await getCollection("articulos");
+
+// Ordenar por fecha descendente (más nuevo arriba)
+const lista = articulos.sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+---
 
 <!DOCTYPE html>
 <html lang="es">
@@ -13,23 +23,23 @@
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://raiz-verde-six.vercel.app/">
+  <meta property="og:url" content="https://raiz-verde-astro.vercel.app/">
   <meta property="og:title" content="Raíz Verde - Sostenibilidad tecnológica y proyectos forestales">
   <meta property="og:description"
     content="Artículos semanales sobre diseño web verde, proyectos de reforestación y reducción de huella digital.">
-  <meta property="og:image" content="https://raiz-verde-six.vercel.app/assets/img/logo.svg">
+  <meta property="og:image" content="https://raiz-verde-astro.vercel.app/assets/img/logo.svg">
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:url" content="https://raiz-verde-six.vercel.app/">
+  <meta name="twitter:url" content="https://raiz-verde-astro.vercel.app/">
   <meta name="twitter:title" content="Raíz Verde - Sostenibilidad tecnológica">
   <meta name="twitter:description" content="Artículos semanales sobre diseño web verde y proyectos forestales.">
-  <meta name="twitter:image" content="https://raiz-verde-six.vercel.app/assets/img/logo.svg">
+  <meta name="twitter:image" content="https://raiz-verde-astro.vercel.app/assets/img/logo.svg">
 
   <title>Raíz Verde - Sostenibilidad tecnológica y proyectos forestales</title>
-  <link rel="canonical" href="https://raiz-verde-six.vercel.app/">
+  <link rel="canonical" href="https://raiz-verde-astro.vercel.app/">
 
-  <!-- Critical CSS inline (exactamente como lo tenías) -->
+  <!-- Critical CSS inline (tu estilo completo) -->
   <style>
     body {
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
@@ -46,15 +56,18 @@
     h1 { font-size: 3.2rem; color: #95d5b2; margin-bottom: .5rem }
     .tagline { font-size: 1.1rem; color: #74c69d; font-style: italic }
     a { color: #95d5b2; text-decoration: none }
+    .description { margin-bottom: 3rem; font-size: 1.1rem }
+    .list-articles { margin-bottom: 2rem }
+    article { margin-bottom: 3rem }
+    .meta { color: #74c69d; font-style: italic; margin: 1rem 0 }
+    .first { border-left: 4px solid #95d5b2; padding-left: 1.5rem }
+    .carbon { margin-top: 4rem; font-size: 0.9rem }
   </style>
 
-  <!-- Carga asíncrona del CSS principal (como lo tenías) -->
   <link rel="preload" href="/assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="/assets/css/style.css"></noscript>
-
   <link rel="icon" href="/assets/img/logo.svg" type="image/svg+xml">
 </head>
-
 <body>
   <a href="#main-content" class="skip-navigation">Saltar al contenido principal</a>
 
@@ -64,38 +77,18 @@
     <p class="tagline">Sostenibilidad tecnológica y proyectos forestales</p>
   </header>
 
-  <main id="main-content" role="main">
-    <section>
-      <p class="description">Raíz Verde es un espacio dedicado a explorar la intersección entre tecnología y
-        sostenibilidad ambiental. Publicamos artículos semanales sobre diseño web verde, proyectos de reforestación,
-        análisis críticos de iniciativas ecológicas y nuevas formas de reducir nuestra huella digital y planetaria.</p>
+  <main id="main-content">
+    <p class="description">Raíz Verde es un espacio dedicado a explorar la intersección entre tecnología y sostenibilidad ambiental. Publicamos artículos semanales sobre diseño web verde, proyectos de reforestación, análisis críticos de iniciativas ecológicas y nuevas formas de reducir nuestra huella digital y planetaria.</p>
 
-      <h2 class="list-articles">Últimos artículos.</h2>
+    <h2 class="list-articles">Últimos artículos.</h2>
 
-      <article class="first">
-        <h2><a href="/articulos/huella-ambiental-ia.html">La Sorprendente Huella Ambiental de la IA.</a></h2>
-        <div class="meta">19 diciembre 2025</div>
-        <p>Análisis del impacto en el consumo de recursos energéticos por parte de la Inteligencia Artificial.</p>
+    {lista.map((articulo, index) => (
+      <article class={index === 0 ? "first" : ""}>
+        <h2><a href={`/articulos/${articulo.slug}`}>{articulo.data.title}</a></h2>
+        <div class="meta">{new Date(articulo.data.date).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}</div>
+        <p>{articulo.data.description}</p>
       </article>
-
-      <article>
-        <h2><a href="/articulos/ecosia-buscador-arboles.html">Ecosia: el buscador que planta árboles — análisis real.</a></h2>
-        <div class="meta">18 diciembre 2025</div>
-        <p>Análisis de Ecosia y su impacto en reforestación en 2025. El navegador verde, alternativa a Google.</p>
-      </article>
-
-      <article>
-        <h2><a href="/articulos/diseno-web-sostenible.html">Diseño web sostenible: cómo creamos Raíz Verde paso a paso.</a></h2>
-        <div class="meta">17 diciembre 2025</div>
-        <p>Guía práctica de green web design aplicada a este proyecto: código ligero, dark mode y optimización real.</p>
-      </article>
-
-      <article>
-        <h2><a href="/articulos/raiz-verde-el-proyecto.html">Diseño web sostenible: principios y prácticas.</a></h2>
-        <div class="meta">17 diciembre 2025</div>
-        <p>Un recorrido por las técnicas que permiten crear sitios web más eficientes, accesibles y respetuosos con el planeta.</p>
-      </article>
-    </section>
+    ))}
 
     <p class="carbon">
       Esta página está diseñada para tener una huella de carbono mínima.<br>
@@ -106,8 +99,8 @@
   <footer role="contentinfo">
     <nav aria-label="Navegación del sitio">
       <a href="/" aria-label="Ir a la página de inicio">Inicio</a> •
-      <a href="/about.html" aria-label="Leer sobre este proyecto">Sobre mí</a> •
-      <a href="/articulos/index.html" aria-label="Ver todos los artículos">Artículos</a>
+      <a href="/about" aria-label="Leer sobre este proyecto">Sobre mí</a> •
+      <a href="/articulos" aria-label="Ver todos los artículos">Artículos</a>
     </nav>
     <p>
       <a href="/rss.xml" target="_blank" rel="noopener noreferrer" style="margin-right: 1rem;">📡 RSS</a>
@@ -118,7 +111,7 @@
       Esta página está diseñada para tener una huella de carbono mínima:<br>
       <strong>Menos de 0.01g CO₂ por visita — Grado A</strong><br>
       Más limpio que el 99% de las webs testeadas.<br>
-      <a href="https://www.websitecarbon.com/website/raiz-verde-six-vercel-app/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.websitecarbon.com/website/raiz-verde-astro-vercel-app/" target="_blank" rel="noopener noreferrer">
         Ver cálculo completo en websitecarbon.com
       </a>
     </p>

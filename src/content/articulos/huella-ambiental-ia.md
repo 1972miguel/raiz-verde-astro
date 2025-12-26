@@ -1,6 +1,6 @@
 ---
 title: La sorprendente huella ambiental de la inteligencia artificial
-pubDate: 2025-12-19
+date: 2025-12-19
 description: >-
   La inteligencia artificial tiene una huella ambiental enorme: consumo de agua, gasto energético y uso masivo de minerales para centros de datos. Descubre el impacto oculto de la IA en el planeta.
 ---

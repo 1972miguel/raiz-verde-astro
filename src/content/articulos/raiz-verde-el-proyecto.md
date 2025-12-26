@@ -1,7 +1,7 @@
 ---
 title: "Raíz Verde: el proyecto"
 description: "Un recorrido por el origen de Raíz Verde: sostenibilidad, tecnología verde, y proyectos forestales."
-pubDate: 2025-12-17
+date: 2025-12-26
 author: "MigLai"
 
 tags:

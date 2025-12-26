@@ -1,7 +1,8 @@
 ---
 title: "Diseño web sostenible: cómo creamos Raíz Verde paso a paso"
 description: "Guía práctica de green web design aplicada a este proyecto: código ligero, dark mode y optimización real."
-pubDate: 2025-12-17
+date: 2025-12-17
+
 author: "MigLai"
 
 tags:

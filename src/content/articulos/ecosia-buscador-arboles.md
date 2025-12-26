@@ -2,7 +2,7 @@
 # Información básica del artículo
 title: "Ecosia: el buscador que planta árboles — ¿solución real o greenwashing?"
 description: "Análisis de Ecosia, el buscador que usa ganancias para reforestación. Impacto en 2025, proyectos y eficacia."
-pubDate: 2025-12-18
+date: 2025-12-18
 author: "MigLai"
 
 # 🏷 Etiquetas para clasificar
