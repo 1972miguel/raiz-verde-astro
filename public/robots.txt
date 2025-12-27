@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
-Disallow: /assets/css/
-Sitemap: https://raiz-verde-six.vercel.app/sitemap.xml
+
+# Permitir sitemap (Google lo ama)
+Sitemap: https://raiz-verde-astro.vercel.app/sitemap-index.xml
+
+# Opcional: evitar rutas de build si alguna vez aparecen (no pasa en Astro estático, pero por si acaso)
+Disallow: /_astro/
+Disallow: /assets/
