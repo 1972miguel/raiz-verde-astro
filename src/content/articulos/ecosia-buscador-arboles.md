@@ -19,7 +19,7 @@ image: "/assets/img/logo.svg"
 #  SEO Avanzado
 ogTitle: "Ecosia: el buscador que planta árboles — análisis real"
 ogDescription: "Análisis de Ecosia y su impacto en reforestación en 2025."
-canonical: "https://raiz-verde-six.vercel.app/articulos/ecosia-buscador-arboles.html"
+canonical: "https://raiz-verde-six.vercel.app/articulos/ecosia-buscador-arboles"
 
 # 🐦 Twitter Cards
 twitterTitle: "Ecosia: el buscador que planta árboles"

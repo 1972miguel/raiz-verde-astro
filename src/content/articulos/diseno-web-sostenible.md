@@ -16,7 +16,7 @@ image: "/assets/img/logo.svg"
 
 ogTitle: "Diseño web sostenible: cómo creamos Raíz Verde"
 ogDescription: "Guía práctica de diseño web sostenible aplicada al proyecto."
-canonical: "https://raiz-verde-six.vercel.app/articulos/diseno-web-sostenible.html"
+canonical: "https://raiz-verde-six.vercel.app/articulos/diseno-web-sostenible"
 
 twitterTitle: "Diseño web sostenible: cómo creamos Raíz Verde"
 twitterDescription: "Guía práctica de green web design aplicada a este proyecto."
