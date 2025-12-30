@@ -27,7 +27,7 @@ readingTime: 8
 category: "Proyectos forestales"
 ---
 
-### IMFOREST: ¿puede la bioeconomía forestal salvar el medio rural español?
+### IMFOREST: ¿puede la bioeconomía forestal salvar el medio rural español?.
 
 IMFOREST es un proyecto que quiere demostrar que los bosques españoles pueden generar mucho más que madera o biomasa. Se centra en los productos forestales no madereros —resina, corcho, setas, trufa, castaña, miel, piñón, plantas aromáticas y medicinales— y los coloca en el centro de una bioeconomía forestal que mira a la vez al clima y al reto demográfico. Está financiado por la Fundación Biodiversidad, dentro del Plan de Recuperación y NextGenerationEU, y se desarrolla hasta finales de 2025 con un consorcio donde destacan CTFC y PEFC España.
 
