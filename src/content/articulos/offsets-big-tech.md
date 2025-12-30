@@ -27,7 +27,7 @@ readingTime: 10
 category: "Tecnología sostenible"
 ---
 
-### Los créditos de carbono de las grandes tecnológicas. ¿ Realidad o fraude ?
+### Los créditos de carbono de las grandes tecnológicas. ¿ Realidad o fraude ?.
 
 Imagina que tu casa tiene una gotera en el tejado que deja entrar agua cada vez que llueve. En lugar de arreglar el tejado, decides comprar un montón de cubos para recoger el agua y declaras que tu casa ya no se moja. Los cubos ayudan un poco, pero la gotera sigue ahí, y con el tiempo el problema empeora.
 
@@ -37,7 +37,7 @@ Pero, como veremos a lo largo de este artículo, estos créditos a menudo actúa
 
 Vamos a desgranar esto paso a paso, de forma clara y conectada, para entender si estas estrategias realmente ayudan al clima o si solo sirven para calmar la conciencia (y la imagen pública) de estas compañías.
 
-### ¿Qué son exactamente los offsets de carbono y por qué las big tech los usan tanto?
+### ¿Qué son exactamente los offsets de carbono y por qué las big tech los usan tanto?.
 
 Los offsets son como un "permiso para seguir emitiendo". Una empresa calcula cuántos gases de efecto invernadero produce (por ejemplo, por la electricidad de sus servidores o los viajes de empleados) y luego compra créditos equivalentes. Cada crédito representa una tonelada de CO₂ que se ha evitado o capturado en otro lugar, como un proyecto de reforestación en Brasil o energía renovable en India.
 
@@ -45,7 +45,7 @@ Las big tech los usan porque sus emisiones han explotado en los últimos años. 
 
 Es como si, en lugar de aislar mejor tu casa para gastar menos calefacción, pagaras a alguien para plantar árboles que absorban el CO₂ extra que produces. Suena bien, pero ¿funciona realmente?
 
-### El problema principal: muchos offsets no son tan efectivos como parecen
+### El problema principal: muchos offsets no son tan efectivos como parecen.
 
 Aquí entra la ciencia. Estudios independientes han revisado miles de proyectos de offsets y encontrado problemas graves:
 
@@ -61,7 +61,7 @@ En 2024-2025, investigaciones revelaron que una gran parte de ciertos créditos 
 
 Es como si tus cubos tuvieran agujeros: recogen algo de agua, pero la mayoría se escapa.
 
-### Lo que hacen las big tech: avances reales mezclados con parches
+### Lo que hacen las big tech: avances reales mezclados con parches.
 
 Microsoft prometió ser "carbon negative" en 2030 (eliminar más CO₂ del que emite). Compró millones de créditos, pero sus emisiones subieron por la IA. En 2025, invierte en tecnologías reales como captura directa de carbono, pero sigue dependiendo de offsets forestales criticados.
 
@@ -71,13 +71,13 @@ Amazon impulsa The Climate Pledge (net-zero en 2040) y fondos para naturaleza. P
 
 En resumen, todas avanzan (más renovables, eficiencia energética), pero los offsets les permiten crecer sin reducir emisiones absolutas tanto como deberían.
 
-### ¿Por qué esto importa para el planeta?
+### ¿Por qué esto importa para el planeta?.
 
 Si las empresas más ricas e influyentes del mundo usan offsets de baja calidad, crean una ilusión de progreso. Es como declarar que la gotera está arreglada porque tienes muchos cubos, cuando en realidad el tejado sigue roto y la casa se inunda más cada año.
 
 La ciencia es clara: necesitamos reducir emisiones reales un 43% para 2030. Los offsets solo deberían usarse para lo residual, después de cortar todo lo posible en origen. Usarlos como excusa principal retrasa la acción urgente.
 
-### Hacia soluciones reales: ¿qué camino tomar?
+### Hacia soluciones reales: ¿qué camino tomar?.
 
 Las big tech están empezando a cambiar: Google dejó los offsets fáciles, Microsoft invierte en captura directa, Amazon amplía renovables. Pero para ser creíbles, deben priorizar:
 

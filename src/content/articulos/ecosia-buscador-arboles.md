@@ -31,7 +31,7 @@ readingTime: 8
 category: "Tecnología sostenible"
 ---
 
-### Ecosia: el buscador que planta árboles ¿solución real o greenwashing?
+### Ecosia: el buscador que planta árboles ¿solución real o greenwashing?.
 
 Ecosia se presenta como el buscador que planta árboles: una alternativa a Google que destina una parte significativa de sus ingresos publicitarios a proyectos de reforestación en todo el mundo.
 
@@ -39,7 +39,7 @@ En 2024 superó el hito de los 200 millones de árboles plantados junto a organi
 
 Pero ¿su modelo realmente tiene impacto o es solo una forma de marketing verde?
 
-### Cómo funciona el modelo de Ecosia
+### Cómo funciona el modelo de Ecosia.
 
 Ecosia no tiene un índice propio de la web: utiliza motores de búsqueda de terceros (históricamente Bing y, más recientemente, también Google en algunos mercados) y superpone su capa de anuncios y donaciones.
 
@@ -49,7 +49,7 @@ La empresa publica informes financieros y de impacto donde detalla qué porcenta
 
 Además de plantar árboles, en los últimos años ha empezado a invertir en iniciativas complementarias como agricultura regenerativa y proyectos de energía limpia, intentando abordar la crisis climática desde varios frentes.
 
-### Impacto forestal y climático en 2025
+### Impacto forestal y climático en 2025.
 
 Al superar los 200 millones de árboles plantados, Ecosia ha ampliado su cartera de proyectos a decenas de países, desde programas de restauración de manglares hasta reforestación de zonas degradadas y proyectos agroforestales con comunidades rurales.
 
@@ -59,7 +59,7 @@ El impacto climático directo se traduce en la captura progresiva de CO₂ a med
 
 Para reforzar su credibilidad, Ecosia utiliza seguimiento por satélite, visitas de campo y auditorías de socios locales para comprobar la supervivencia de los árboles y ajustar los proyectos allí donde se detectan problemas.
 
-### Luces: transparencia, comunidad y co-beneficios
+### Luces: transparencia, comunidad y co-beneficios.
 
 Uno de los puntos fuertes de Ecosia es la transparencia relativa: publica informes financieros mensuales, desglosa donaciones y ofrece un portafolio público de proyectos con información sobre especies, métodos y retos de cada zona.
 
@@ -67,7 +67,7 @@ Su comunidad de usuarios también es un activo clave: al convertir un gesto coti
 
 Muchos proyectos combinan la plantación de árboles con objetivos sociales: mejora de ingresos locales, seguridad alimentaria, empoderamiento de mujeres y formación en prácticas agrícolas más sostenibles.
 
-### Sombras: críticas, límites y riesgo de greenwashing
+### Sombras: críticas, límites y riesgo de greenwashing.
 
 A pesar de estos avances, el modelo no está exento de críticas. Algunas voces señalan que los datos de impacto dependen casi por completo de la propia empresa y de sus socios, lo que dificulta una verificación completamente independiente.
 
@@ -77,7 +77,7 @@ Otro límite evidente es el contexto energético: al basarse en motores de búsq
 
 Finalmente, existe el riesgo de que se use Ecosia como excusa de “compensación” sin cuestionar el volumen total de consumo y emisiones, reforzando una lógica de greenwashing si no se acompaña de reducciones reales en otros ámbitos.
 
-### Comparación con otros buscadores “responsables”
+### Comparación con otros buscadores “responsables”.
 
 Frente a Google, el valor diferencial de Ecosia está en el destino explícito de sus beneficios: prioriza la financiación de proyectos climáticos y forestales, mientras que Google reinvierte principalmente en su propio ecosistema tecnológico y publicitario.
 
@@ -85,7 +85,7 @@ Comparado con DuckDuckGo, que pone el foco en la privacidad y el mínimo rastreo
 
 Existen otros buscadores “verdes” y solidarios, pero pocos cuentan con un histórico de impacto cuantificado, informes recurrentes y una comunidad tan grande como la que ha construido Ecosia en la última década.
 
-### Conclusiones: ¿merece la pena usar Ecosia?
+### Conclusiones: ¿merece la pena usar Ecosia?.
 
 En términos de impacto marginal, cambiar el buscador predeterminado a Ecosia es una acción de baja fricción que canaliza parte de la economía de la atención hacia proyectos de restauración ecológica.
 
