@@ -1,5 +1,5 @@
 ---
-title: "Colonialismo verde: ¿soluciones climáticas o nuevo despojo en el Sur Global?"
+title: "¿Son los offsets de carbono de las big tech una solución real o solo un parche temporal?"
 date: 2025-12-27
 description: >-
   Análisis crítico del colonialismo verde: cómo empresas del Norte Global usan tierras del Sur para créditos de carbono, desplazando comunidades locales e indígenas en nombre de la mitigación climática.
@@ -15,7 +15,7 @@ tags:
 
 image: "/assets/img/logo.svg"
 
-ogTitle: "Colonialismo verde: ¿soluciones climáticas o nuevo despojo en el Sur Global?"
+ogTitle: "¿Son los offsets de carbono de las big tech una solución real o solo un parche temporal?"
 ogDescription: Empresas y organizaciones del Norte Global adquieren tierras en países del Sur para generar créditos de carbono, a menudo violando derechos locales y perpetuando desigualdades.
 canonical: "https://raiz-verde-astro.vercel.app/articulos/colonialismo-verde"
 
