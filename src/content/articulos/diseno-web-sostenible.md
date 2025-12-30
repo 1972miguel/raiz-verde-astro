@@ -60,4 +60,4 @@ Este enfoque no solo ayuda al planeta: mejora velocidad, SEO y experiencia de us
 
 Próximamente: análisis de proyectos forestales y más tips técnicos.
 
-— MigLai (con ayuda de Grok)
+— MigLai (con ayuda de [Grok](https://x.ai/grok))

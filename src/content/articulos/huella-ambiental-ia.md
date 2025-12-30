@@ -59,4 +59,4 @@ Afortunadamente, la conciencia sobre este problema está impulsando la búsqueda
 
 A medida que la IA se convierte en una parte inseparable de nuestro mundo, la pregunta que debemos hacernos es: ¿cómo nos aseguramos de que su increíble potencial no llegue a un coste que el planeta ya no pueda permitirse pagar?
 
-— MigLai (con ayuda de Grok)
+— MigLai (con ayuda de [Grok](https://x.ai/grok))

@@ -31,7 +31,7 @@ readingTime: 8
 category: "Tecnología sostenible"
 ---
 
-### Ecosia: el buscador que planta árboles  ¿solución real o greenwashing?
+### Ecosia: el buscador que planta árboles ¿solución real o greenwashing?
 
 Ecosia se presenta como el buscador que planta árboles: una alternativa a Google que destina una parte significativa de sus ingresos publicitarios a proyectos de reforestación en todo el mundo.
 
@@ -68,6 +68,7 @@ Su comunidad de usuarios también es un activo clave: al convertir un gesto coti
 Muchos proyectos combinan la plantación de árboles con objetivos sociales: mejora de ingresos locales, seguridad alimentaria, empoderamiento de mujeres y formación en prácticas agrícolas más sostenibles.
 
 ### Sombras: críticas, límites y riesgo de greenwashing
+
 A pesar de estos avances, el modelo no está exento de críticas. Algunas voces señalan que los datos de impacto dependen casi por completo de la propia empresa y de sus socios, lo que dificulta una verificación completamente independiente.
 
 También se ha cuestionado hasta qué punto ciertos proyectos se centran en restaurar ecosistemas forestales complejos o, por el contrario, fomentan sistemas agroforestales y plantaciones que podrían aumentar la presión sobre el uso del suelo.
@@ -94,4 +95,4 @@ Usar Ecosia tiene sentido si se combina con una mirada crítica: informarse sobr
 
 En Raíz Verde, la recomendación razonable sería probar Ecosia como buscador habitual, revisar periódicamente sus informes y usarlo como punto de entrada para reflexionar sobre cómo se financia la web que utilizamos cada día.
 
-— MigLai (con ayuda de Grok)
+— MigLai (con ayuda de [Grok](https://x.ai/grok))

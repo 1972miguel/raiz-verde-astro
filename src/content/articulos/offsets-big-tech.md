@@ -4,7 +4,6 @@ date: 2025-12-26
 description: >-
   Las grandes empresas tecnológicas prometen ser "neutras en carbono" comprando créditos para compensar sus emisiones. Pero ¿realmente ayudan al planeta o solo maquillan el problema mientras sus emisiones siguen creciendo?
 author: "MigLai"
-
 tags:
   - big tech
   - offsets de carbono
@@ -50,13 +49,13 @@ Es como si, en lugar de aislar mejor tu casa para gastar menos calefacción, pag
 
 Aquí entra la ciencia. Estudios independientes han revisado miles de proyectos de offsets y encontrado problemas graves:
 
-  1 - Muchos proyectos habrían ocurrido de todos modos, sin el dinero de los créditos (por ejemplo, un bosque que ya estaba protegido por ley local).
+1 - Muchos proyectos habrían ocurrido de todos modos, sin el dinero de los créditos (por ejemplo, un bosque que ya estaba protegido por ley local).
 
-  2 - Un árbol plantado hoy puede morir en un incendio mañana (y con el cambio climático, los incendios son más frecuentes).
+2 - Un árbol plantado hoy puede morir en un incendio mañana (y con el cambio climático, los incendios son más frecuentes).
 
-  3 - Proteger un bosque en un lugar puede desplazar la deforestación a otro cercano.
+3 - Proteger un bosque en un lugar puede desplazar la deforestación a otro cercano.
 
-  4 - Algunos proyectos calculan que capturan mucho más CO₂ del real.
+4 - Algunos proyectos calculan que capturan mucho más CO₂ del real.
 
 En 2024-2025, investigaciones revelaron que una gran parte de ciertos créditos forestales sobrestimaban su impacto. Organizaciones independientes han creado estándares más estrictos, pero muchos créditos antiguos que usan las empresas no los cumplen.
 
@@ -82,7 +81,7 @@ La ciencia es clara: necesitamos reducir emisiones reales un 43% para 2030. Los 
 
 Las big tech están empezando a cambiar: Google dejó los offsets fáciles, Microsoft invierte en captura directa, Amazon amplía renovables. Pero para ser creíbles, deben priorizar:
 
-1 -  Reducir consumo energético (mejor eficiencia en IA y datos).
+1 - Reducir consumo energético (mejor eficiencia en IA y datos).
 
 2 - Usar solo offsets de alta calidad (permanentes, verificados independientemente).
 
@@ -92,4 +91,4 @@ No hay atajos mágicos. Los offsets pueden ser un complemento útil, como un par
 
 Raíz Verde seguirá vigilando estas promesas para separar lo real del maquillaje verde.
 
-— MigLai (con ayuda de Grok)
+— MigLai (con ayuda de [Grok](https://x.ai/grok))

@@ -24,15 +24,17 @@ readingTime: 5
 category: "Tecnología sostenible"
 ---
 
-
-Bienvenidos a **Raíz Verde**, un proyecto personal y colaborativo que nace de la convicción de que la tecnología y la naturaleza no tienen por qué estar separadas. 
+Bienvenidos a **Raíz Verde**, un proyecto personal y colaborativo que nace de la convicción de que la tecnología y la naturaleza no tienen por qué estar separadas.
 
 Aquí exploramos dos mundos que me apasionan:
-####  <u>La sostenibilidad :</u> 
- aplicada a las nuevas tecnologías: cómo diseñar y desarrollar sitios web, aplicaciones y sistemas digitales con la menor huella de carbono posible (green web design, hosting renovable, código eficiente).
 
-####  <u>Los proyectos forestales y ambientales:</u>
-  iniciativas de reforestación, restauración ecológica, conservación de bosques y análisis crítico de propuestas “verdes” en el mundo real.
+#### <u>La sostenibilidad :</u>
+
+aplicada a las nuevas tecnologías: cómo diseñar y desarrollar sitios web, aplicaciones y sistemas digitales con la menor huella de carbono posible (green web design, hosting renovable, código eficiente).
+
+#### <u>Los proyectos forestales y ambientales:</u>
+
+iniciativas de reforestación, restauración ecológica, conservación de bosques y análisis crítico de propuestas “verdes” en el mundo real.
 
 Cada semana publicaré un artículo nuevo: reflexiones, tutoriales prácticos, reseñas de proyectos interesantes o ideas para reducir nuestra huella tanto digital como planetaria.
 
@@ -42,4 +44,4 @@ Este espacio lo construyo con la ayuda de Grok (la IA de xAI), que me acompaña 
 
 Gracias por visitar Raíz Verde. Si te interesa el tema, suscríbete al RSS o vuelve cada semana. ¡Crezcamos juntos!
 
-— MigLai
+— MigLai (con ayuda de [Grok](https://x.ai/grok))
