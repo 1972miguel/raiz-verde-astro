@@ -14,7 +14,7 @@ image: "/assets/img/logo.svg"
 
 ogTitle: "Diseño web sostenible: principios y prácticas"
 ogDescription: "Técnicas para crear sitios web más eficientes y respetuosos con el planeta."
-canonical: "https://raiz-verde-six.vercel.app/articulos/raiz-verde-el-proyectol"
+canonical: "https://raiz-verde-six.vercel.app/articulos/raiz-verde-el-proyecto"
 
 twitterTitle: "Diseño web sostenible: principios y prácticas"
 twitterDescription: "Técnicas para crear sitios web ecológicos."
