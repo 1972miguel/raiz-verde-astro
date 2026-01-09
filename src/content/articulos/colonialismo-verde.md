@@ -27,7 +27,7 @@ readingTime: 10
 category: "Tecnología sostenible"
 ---
 
-### ¿Son los offsets de carbono de las big tech una solución real o solo un parche temporal?.
+### ¿Qué se entiende por colonialismo verde?
 
 El colonialismo verde se define como una relación de poder desigual en la que empresas y organizaciones del Norte Global utilizan las tierras y recursos del Sur Global para sus propios fines de lucro y mitigación climática, a menudo a expensas de los derechos y la supervivencia de las comunidades locales e indígenas.
 Bajo la narrativa de las "soluciones basadas en la naturaleza", grandes corporaciones —incluyendo a las Big Tech como Microsoft, Google, Meta y Amazon— adquieren derechos sobre vastos territorios para generar créditos de carbono, lo que frecuentemente resulta en el desplazamiento de poblaciones, la pérdida de soberanía alimentaria y la violación del consentimiento previo, libre e informado.
