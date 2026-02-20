@@ -1,6 +1,6 @@
 ---
 title: "Incendios forestales en Galicia: ¿qué papel juega el modelo eucalipto?"
-date: 2026-02-21
+date: 2026-02-20
 description: >-
   El eucalipto acelera la propagación de incendios en Galicia y genera insostenibilidad a largo plazo: erosión del suelo, pérdida de biodiversidad y dependencia económica de monocultivos inflamables.
 author: "MigLai"
