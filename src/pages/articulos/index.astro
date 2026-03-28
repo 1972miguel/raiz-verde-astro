@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import Analytics from "@vercel/analytics/astro";
 
 // Obtener todos los artículos
 const articulos = await getCollection("articulos");
@@ -78,6 +79,7 @@ const lista = articulos.sort(
   <link rel="preload" href="/assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="/assets/css/style.css"></noscript>
   <link rel="icon" href="/assets/img/logo.svg" type="image/svg+xml">
+  <Analytics />
 </head>
 
 <body>

@@ -3,6 +3,8 @@ interface Props {
   articulo: any;
 }
 
+import Analytics from "@vercel/analytics/astro";
+
 const { articulo } = Astro.props;
 const data = articulo.data;
 const pubDate = new Date(data.pubDate || data.date);
@@ -119,6 +121,7 @@ const formattedDate = pubDate.toLocaleDateString("es-ES", {
   <noscript><link rel="stylesheet" href="/assets/css/style.css"></noscript>
 
   <link rel="icon" href="/assets/img/logo.svg" type="image/svg+xml" />
+  <Analytics />
 </head>
 
 <body>
