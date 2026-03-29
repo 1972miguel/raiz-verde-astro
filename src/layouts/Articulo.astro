@@ -11,6 +11,7 @@ const formattedDate = pubDate.toLocaleDateString("es-ES", {
   month: "long",
   day: "numeric",
 });
+import Analytics from '@vercel/analytics/astro';
 ---
 
 <!DOCTYPE html>
@@ -120,6 +121,7 @@ const formattedDate = pubDate.toLocaleDateString("es-ES", {
   <noscript><link rel="stylesheet" href="/assets/css/style.css"></noscript>
 
   <link rel="icon" href="/assets/img/logo.svg" type="image/svg+xml" />
+  <Analytics />
 </head>
 
 <body>
