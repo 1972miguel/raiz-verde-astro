@@ -9,7 +9,10 @@
 }
 
 body {
-  font-family: system-ui, -apple-system, sans-serif;
+  font-family:
+    system-ui,
+    -apple-system,
+    sans-serif;
   line-height: 1.8;
   background: #121212;
   color: #e0e0e0;
@@ -55,7 +58,9 @@ header {
   width: 130px;
   height: 100px;
   margin-bottom: 1rem;
-  transition: transform 0.25s ease, filter 0.25s ease;
+  transition:
+    transform 0.25s ease,
+    filter 0.25s ease;
 }
 
 .logo:hover {
@@ -75,7 +80,7 @@ p.description {
   padding-bottom: 4rem;
 }
 /** Enlace de retorno página about*/
-#return-link{
+#return-link {
   margin-top: 1rem;
 }
 /* Encabezado lista de artículos */
@@ -94,6 +99,7 @@ h2.articles-index {
 h2 {
   font-size: 2.2rem;
   margin-bottom: 0.8rem;
+  margin-top: 2rem;
 }
 
 h3 {
@@ -197,7 +203,6 @@ footer {
 
 /* Soporte para usuarios con sensibilidad al movimiento */
 @media (prefers-reduced-motion: reduce) {
-
   *,
   *::before,
   *::after {
@@ -205,7 +210,7 @@ footer {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
-    .logo {
+  .logo {
     transition-duration: 0.01ms !important;
     transform: none;
   }
