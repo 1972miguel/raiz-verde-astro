@@ -99,7 +99,6 @@ h2.articles-index {
 h2 {
   font-size: 2.2rem;
   margin-bottom: 0.8rem;
-  margin-top: 2rem;
 }
 
 h3 {
@@ -164,7 +163,12 @@ article .meta {
 article p:last-of-type {
   margin-top: 1rem;
 }
+/*articulos .md*/
+.content > h2 {
+  margin-top: 2rem;
+}
 /* Links con mejor contraste WCAG 2.1 AA */
+
 a {
   color: #a8e6cf;
   text-decoration: none;
