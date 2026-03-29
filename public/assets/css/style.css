@@ -164,7 +164,7 @@ article p:last-of-type {
   margin-top: 1rem;
 }
 /*articulos .md*/
-.content > h2 {
+.content h2 {
   margin-top: 2rem;
 }
 /* Links con mejor contraste WCAG 2.1 AA */
